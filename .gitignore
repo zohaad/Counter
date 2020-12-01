@@ -1,0 +1,6 @@
+.vscode/
+env/
+.direnv/
+.envrc
+token.txt
+storage.json
